@@ -1,4 +1,4 @@
 # apnaCollege-demo
 This is my first GitHub repository
 <br>
-Author: Maclean Pinto
+Author: Maclean Pinto(Sunshine house)
